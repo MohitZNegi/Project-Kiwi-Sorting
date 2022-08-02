@@ -19,7 +19,7 @@ def kiwi_selectionsort(L):
     for i in range(len(L)):
         
         # Find the minimum element in remaining
-        # unsorted array
+        # unsorted list
         min_idx = i
 
          # loop to compare list elements
